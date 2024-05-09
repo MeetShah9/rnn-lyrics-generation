@@ -2,6 +2,12 @@
 
 This project utilizes an LSTM (Long Short-Term Memory) neural network trained on song lyrics by various artists to generate new lyrics.
 
+![Input Image](https://github.com/MeetShah9/rnn-lyrics-generation/assets/148629466/ae3aea21-6fef-4578-aecf-8191b4fd37eb)
+
+
+
+![Output Image](https://github.com/MeetShah9/rnn-lyrics-generation/assets/148629466/e7fb1730-8f32-48c1-b2f8-19f0c3f97421)
+
 ## Prerequisites
 
 Before running the code, ensure you have the following dependencies installed:
